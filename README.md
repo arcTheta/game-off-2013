@@ -1,3 +1,3 @@
-# Stuff Game-Off
+# Game-Off
 ----------------
 
