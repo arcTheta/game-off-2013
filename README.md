@@ -3,6 +3,9 @@
 ## About
 A JS-based RPG game, 
 
+## Deployed?
+_Deployed at:_ [isaacrg.cod.io/game-off-2013](http://isaacrg.cod.io/game-off-2013 "Deployed at cod.io").
+
 ## Notes and reccomendations
 
 ### Editing
@@ -17,5 +20,6 @@ Use either:
  - [Chromium](www.chromium.org/‎)
  - [Chrome](www.google.com/chrome‎)
  - _Maybe even Safari...Just don't use IE._
+
 ### Project Management
 See the [Trello Board](https://trello.com/b/yhgtZSnd/sidescroller), and Github [issues](https://github.com/arcTheta/game-off-2013/issues).
