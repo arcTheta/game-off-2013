@@ -22,4 +22,4 @@ Use either:
  - _Maybe even Safari...Just don't use IE._
 
 ### Project Management
-See the [Trello Board](https://trello.com/b/yhgtZSnd/sidescroller) (for organisations developers only), and Github [issues](https://github.com/arcTheta/game-off-2013/issues).
+See the [Trello Board](https://trello.com/b/yhgtZSnd/sidescroller) (for arcTheta developers and designers only), and Github [issues](https://github.com/arcTheta/game-off-2013/issues).
